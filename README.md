@@ -14,24 +14,28 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ## 🚀 Key Features
 
 ### 🤖 AI-Powered Features
+
 - **AI Product Description Generator**: Automatically generates compelling product descriptions using Google Gemini AI
 - **Smart Price Suggestions**: AI-driven pricing recommendations based on materials, techniques, and market analysis
 - **Intelligent Tag Generation**: Auto-generates relevant tags for better product discoverability
 - **AI Analytics Dashboard**: Performance insights and recommendations for artists
 
 ### 🎨 Artisan Features
+
 - **Artist Dashboard**: Comprehensive overview of products, orders, and analytics
 - **Product Management**: Create, edit, and delete product listings with ease
 - **Real-time Order Tracking**: Monitor order status and customer interactions
 - **Role-based Access Control**: Dedicated artisan workspace
 
 ### 🛒 Customer Features
+
 - **Advanced Product Discovery**: Browse and filter products by category, price, and artist
 - **Interactive Product Cards**: Detailed product views with high-quality images
 - **Seamless Ordering System**: One-click ordering with digital receipt generation
 - **Favorites & Wishlist**: Save favorite products for later
 
 ### 🔧 Technical Features
+
 - **Responsive Design**: Optimized for all devices and screen sizes
 - **Real-time Updates**: Live order notifications and status updates
 - **Secure Authentication**: JWT-based authentication with role management
@@ -41,6 +45,7 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - **React 18** with TypeScript
 - **Vite** for fast development and building
 - **Tailwind CSS** for modern, responsive styling
@@ -48,6 +53,7 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 - **React Router** for navigation
 
 ### Backend
+
 - **Node.js** with Express.js
 - **MongoDB** with Mongoose ODM
 - **Google Gemini AI** for intelligent features
@@ -56,6 +62,7 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 - **CORS** for cross-origin requests
 
 ### DevOps & Deployment
+
 - **Vercel** for frontend deployment
 - **Render** for backend deployment
 - **MongoDB Atlas** for cloud database
@@ -64,14 +71,16 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ## 🏆 Team Members
 
 ### 👨‍💼 Gulam Shaikh - Team Lead
+
 - **Role**: Team Leadership & AI Strategy
-- **Responsibilities**: 
+- **Responsibilities**:
   - Project coordination and team guidance
   - AI feature planning and implementation strategy
   - Technical architecture decisions
   - Quality assurance and code reviews
 
 ### 👨‍💻 Prince Maurya - Backend Developer & AI Specialist
+
 - **Role**: Backend Development & AI Integration
 - **Responsibilities**:
   - RESTful API development
@@ -80,7 +89,8 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
   - Authentication and security implementation
   - Server deployment and configuration
 
-### 👩‍💻 Anjali - Frontend Developer & Documentation Lead
+### 👩‍💻 Anjali Prajapati - Frontend Developer & Documentation Lead
+
 - **Role**: Frontend Development & Documentation
 - **Responsibilities**:
   - Complete frontend application development
@@ -92,6 +102,7 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js (v16 or higher)
 - MongoDB Atlas account
 - Google Gemini AI API key
@@ -99,32 +110,35 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ### Installation
 
 1. **Clone the repository**
+
    ```bash
-   git clone https://github.com/your-username/ArtisanHub.git
-   cd ArtisanHub
+   git clone https://https://github.com/Prince200510/genai-artwork.git
+   cd genai-artwork
    ```
 
 2. **Backend Setup**
+
    ```bash
    cd backend
    npm install
-   
+
    # Create .env file with your configurations
    PORT=5000
    MONGODB_URI=your_mongodb_connection_string
    JWT_SECRET=your_jwt_secret
    GEMINI_API_KEY=your_gemini_api_key
    CORS_ORIGIN=http://localhost:5173
-   
+
    # Start backend server
    npm start
    ```
 
 3. **Frontend Setup**
+
    ```bash
    cd frontend
    npm install
-   
+
    # Start development server
    npm run dev
    ```
@@ -136,12 +150,14 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ## 📱 Usage
 
 ### For Artisans
+
 1. **Register/Login** as an artisan
 2. **Access Dashboard** to view your products and orders
 3. **Create Products** using AI-powered description and pricing tools
 4. **Manage Orders** and track customer interactions
 
 ### For Customers
+
 1. **Browse Products** by category or search
 2. **View Product Details** with AI-generated descriptions
 3. **Place Orders** with one-click checkout
@@ -150,10 +166,13 @@ ArtisanHub is a revolutionary marketplace that bridges the gap between tradition
 ## 🌟 AI Features in Detail
 
 ### Smart Product Descriptions
+
 Our AI analyzes product titles, categories, materials, and techniques to generate compelling, SEO-friendly descriptions that highlight the unique aspects of each handcrafted item.
 
 ### Intelligent Pricing
+
 The AI considers factors like:
+
 - Material costs and rarity
 - Craftsmanship complexity
 - Market demand and trends
@@ -161,7 +180,9 @@ The AI considers factors like:
 - Regional pricing patterns
 
 ### Auto-Tag Generation
+
 Automatically generates relevant tags for:
+
 - Art techniques and styles
 - Cultural significance
 - Material types
@@ -207,13 +228,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries regarding this project, please reach out to our team:
 
-- **Gulam Shaikh** - Team Lead - [GitHub](https://github.com/gulam-shaikh)
-- **Prince Maurya** - Backend Developer - [GitHub](https://github.com/prince-maurya)
+- **Gulam Shaikh** - Team Lead - [GitHub](https://github.com/gulamshaikh)
+- **Prince Maurya** - Backend Developer - [GitHub](https://https://github.com/Prince200510/)
 - **Anjali** - Frontend Developer - [GitHub](https://github.com/anjali-dev)
 
 ---
 
 <div align="center">
   <h3>🎨 Made with ❤️ for traditional artisans worldwide 🎨</h3>
-  <p><strong>GenAI Hackathon 2025 - Team ArtisanHub</strong></p>
+  <p><strong>GenAI Hackathon 2025 - Team GenZi</strong></p>
 </div>
